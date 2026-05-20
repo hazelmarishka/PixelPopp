@@ -51,18 +51,6 @@ PixelPopp/
 
 ---
 
-## Screenshots
-
-(Add screenshots here later)
-
-Example:
-
-```markdown
-![Main UI](screenshots/mainui.png)
-```
-
----
-
 ## Installation
 
 ### 1. Clone the repository
