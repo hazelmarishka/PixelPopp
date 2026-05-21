@@ -1,4 +1,4 @@
-opencv-python
-numpy
-PyQt5
-Pillow
+opencv-python>=4.8
+numpy>=1.24
+PyQt5>=5.15
+Pillow>=10.0
